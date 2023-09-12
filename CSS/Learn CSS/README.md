@@ -135,3 +135,5 @@ Further resources to help you take your next steps.
 ## Attribution
 
 Portions of this page are reproduced from work created and [shared by Google](https://developers.google.com/readme/policies) and used according to terms described in the [Creative Commons 4.0 Attribution License](https://creativecommons.org/licenses/by/4.0/).
+
+Information was taken from [web.dev - Learn CSS](https://web.dev/i18n/es/learn/css/)
